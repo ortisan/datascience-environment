@@ -1,4 +1,4 @@
-# Jobs Spark
+# Datascience Environment
 
 Pre-reqs:
 
@@ -40,6 +40,10 @@ Show token:
 ```sh
 docker logs jupyter 
 ```
+
+### Notebooks
+
+1. [Detect duplicities using TheFuzz](https://github.com/ortisan/datascience-environment/blob/main/data/jupyter/work/DuplicitiesTheFuzz.ipynb)
 
 ### Results
 
