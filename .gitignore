@@ -1,0 +1,9 @@
+.vscode/
+*.pyc
+env/
+__pycache__
+data/*.csv
+data/split_person*
+data/jupyter/work/.ipynb_checkpoints/
+data/jupyter/work/identical_addresses/
+cassandra-data/
