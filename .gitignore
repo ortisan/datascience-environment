@@ -5,5 +5,5 @@ __pycache__
 data/*.csv
 data/split_person*
 data/jupyter/work/.ipynb_checkpoints/
-data/jupyter/work/identical_addresses/
+data/jupyter/work/addresses_filtered/
 cassandra-data/
