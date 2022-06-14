@@ -22,4 +22,4 @@ docker logs jupyter
 
 ### Notebooks
 
-1. [String Matching](https://github.com/ortisan/datascience-environment/blob/main/string-matching/notebooks/StringMatching.ipynb)
+1. [String Matching](https://github.com/ortisan/datascience-environment/blob/main/stringmatching/notebooks/StringMatching.ipynb)
